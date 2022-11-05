@@ -4,19 +4,19 @@
 
 GET : // To get all Room Data
 
-https://roombooking-api.herokuapp.com/
+https://hall-booking-api--nodejs.herokuapp.com/
 
 GET : //To get booked customer details
 
-https://roombooking-api.herokuapp.com/booked-customer-details
+https://hall-booking-api--nodejs.herokuapp.com/booked-customer-details
 
 GET : //To get booked room details
 
-https://roombooking-api.herokuapp.com/booked-room-details
+https://hall-booking-api--nodejs.herokuapp.com/booked-room-details
 
 POST : // To creaate a room
 
-https://roombooking-api.herokuapp.com/create-room
+https://hall-booking-api--nodejs.herokuapp.com/create-room
 
 Bodyraw (json)
 json :
@@ -44,7 +44,7 @@ json :
 
 POST : //To book a room
 
-https://roombooking-api.herokuapp.com/room-booking
+https://hall-booking-api--nodejs.herokuapp.com/room-booking
 
 Bodyraw (json)
 json :
